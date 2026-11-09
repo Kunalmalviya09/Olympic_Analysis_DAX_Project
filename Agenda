@@ -1,0 +1,66 @@
+The International Olympic Committee (IOC) is seeking advanced insights into athlete performance, 
+country-wise medal trends, and sport-specific dominance across Olympic Games. Using historical 
+Olympic data, you are tasked with building analytical solutions that help track achievements, 
+evaluate performance KPIs, and forecast future outcomes for strategic planning and athlete 
+development.
+
+📄 Page 1: Global Medal Overview
+KPIs / Metrics:
+
+Total Medals Awarded
+Total Countries Participated
+Top 10 Countries by Total Medals
+Medal Trends Over the Years
+Year-wise Total Events Held
+ 
+
+📄 Page 2: Country Insights
+KPIs / Metrics:
+
+Total Athletes Represented
+Total Medals Won
+Medal Efficiency (Medals per 100 Athletes)
+Medal Distribution (Gold, Silver, Bronze)
+Year-wise Medal Count for Country
+Best Performing Sports by Country
+ 
+
+📄 Page 3: Athlete Spotlight
+KPIs / Metrics:
+
+Total Athletes
+Top 10 Athletes by Total Medals
+Medal-Winning Athletes vs Total Athletes
+Most Participated Athletes (Olympic Appearances)
+Athlete Age Distribution at Medal Wins
+Gender Distribution of Medal Winners
+ 
+
+📄 Page 4: Sport & Event Analysis
+KPIs / Metrics:
+
+Total Sports/Events
+Events Added per Year
+Top Sports by Medals Awarded
+Country Dominance in Sports
+Sport-wise Athlete Participation
+Sport-wise Medal Trends Over Time
+ 
+
+📄 Page 5: Host Country Analysis
+KPIs / Metrics:
+
+Total Olympics Hosted per Country
+Medal Count as Host vs Non-Host
+Host Country Medal Trend
+Events Conducted in Host Olympics
+ 
+
+📄 Page 6: Gender & Demographics
+KPIs / Metrics:
+
+Male vs Female Athlete Count Over Years
+Gender-wise Medal Distribution
+Youngest & Oldest Medal Winners
+Avg. Age of Participants by Year
+Participation by Age Group
